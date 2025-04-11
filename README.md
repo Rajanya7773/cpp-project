@@ -1,24 +1,26 @@
-# Pong Game using C++ and Raylib
+# Raylib C++ Starter Template
 
-## 📌 Overview
-This project is a modern implementation of the classic Pong game, developed using **C++** and the **Raylib** graphics library. The game follows **Object-Oriented Programming (OOP) principles** to ensure modularity, scalability, and efficient code management.
+Raylib C++ Starter Template for Visual Studio Code on Windows.
 
-## 🎮 Features
-- **Smooth 2D Gameplay:** Engaging Pong game with precise paddle control.
-- **AI-Powered Opponent:** The computer-controlled paddle dynamically tracks the ball.
-- **Real-Time Physics:** Collision detection for accurate ball and paddle interactions.
-- **Audio Effects:** Sound effects for paddle hits and scoring events.
-- **Dynamic Difficulty:** The ball speed increases as the game progresses.
-- **Optimized User Controls:** Seamless paddle movement using keyboard inputs.
+This demo project contains a bouncing ball raylib example program.
 
-## 🛠️ Technologies Used
-- **C++** – Core programming language.
-- **Raylib** – Lightweight graphics and audio handling.
-- **VS Code** – Primary development environment.
-- **Raylib Audio Module** – Used for integrating sound effects.
+It works with raylib version 4.5.
+Tested on both Windows 10 and Windows 11.
 
-## 🚀 Installation & Execution
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/your-username/Pong-Game.git
-   cd Pong-Game
+# Video Tutorial
+
+<p align="center">
+  <img src="preview.jpg" alt="" width="800">
+</p>
+
+<p align="center">
+🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
+</p>
+
+<br>
+<br>
+<p align="center">
+| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
+| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
+</p>
+
